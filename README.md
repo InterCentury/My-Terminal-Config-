@@ -6,7 +6,7 @@ A curated collection of **Windows Terminal configurations**, **themes**, and **f
 This repository is designed so **anyone**—from beginners to power users—can quickly personalize their terminal without digging through documentation or trial-and-error.
 
 ---
-
+![Alt text]([121233.png](https://github.com/InterCentury/My-Terminal-Config-/blob/main/Previews/terminal_preview_1.png?raw=true))
 ## ✨ Features
 
 - 🎨 Pre-made **terminal themes**
